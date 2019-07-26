@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [24/Jul/2019:23:31:40 +0800] "GET /vue_controller HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [24/Jul/2019:23:31:40 +0800] "GET /vue_controller/ HTTP/1.1" 404 981 http-bio-8080-exec-3 12
+0:0:0:0:0:0:0:1 - - [24/Jul/2019:23:31:40 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [24/Jul/2019:23:31:53 +0800] "GET /vue_controller/user/findAll.do HTTP/1.1" 200 4 http-bio-8080-exec-5 378
+0:0:0:0:0:0:0:1 - - [24/Jul/2019:23:32:26 +0800] "GET /vue_controller/user/findAll.do HTTP/1.1" 200 1042 http-bio-8080-exec-1 823
+0:0:0:0:0:0:0:1 - - [24/Jul/2019:23:34:18 +0800] "GET /vue_controller/user/findAll.do HTTP/1.1" 200 1736 http-bio-8080-exec-4 102
+0:0:0:0:0:0:0:1 - - [24/Jul/2019:23:34:20 +0800] "GET /vue_controller/user/findAll.do HTTP/1.1" 200 1736 http-bio-8080-exec-6 21
+0:0:0:0:0:0:0:1 - - [24/Jul/2019:23:34:20 +0800] "GET /vue_controller/user/findAll.do HTTP/1.1" 200 1736 http-bio-8080-exec-7 17
